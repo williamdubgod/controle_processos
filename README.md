@@ -5,9 +5,9 @@ SIMULADO - Enterprise Application Development aplicada em 23/08/2023.
 
 | ![](documentacao/fiap.jpg)               | **Enterprise Application Development** |
 |------------------------------------------|----------------------------------------|
-| **ALUNO:**                               | **TURMA:** 2TDSPI  - 2TDSPJ            |
-| **PROFESSOR:** Benefrancis do Nascimento | 22/05/2023                             |
-| **SIMULADO**                      | ****                     |
+| **ALUNO:**                               | **TURMA:** 2TDSPT  - 2TDSPR            |
+| **PROFESSOR:** Benefrancis do Nascimento | 23/08/2023                             |
+| **SIMULADO**                      | ****                                   |
 
 # Sumário
 
@@ -57,17 +57,15 @@ Veja o Diagrama de Classes abaixo (as classes já foram criadas):
 
 **Você deverá:**
 
-Alterar o arquivo contido em  **documentacao/equipe.txt** para incluir os RMs e nomes e turma da dupla que fará esta atividade. 
-
-**OBS:** Será com base nos nomes contido neste aquivo que eu irei atribuir a nota.
-
-
 **Fazer o fork do projeto do github.**:
 
 https://github.com/Benefrancis/benezinho-advocacia.git
 
 Caso o github esteja indisponível, você deverá pegar o projeto no diretório compartilhado.
 
+Alterar o arquivo contido em  **documentacao/equipe.txt** para incluir os RMs e nomes e turma da dupla que fará esta atividade.
+
+**OBS:** Será com base nos nomes contido neste aquivo que eu irei atribuir a nota.
 
 1. **(0,5 Ponto)** acessar o arquivo persistence.xml e alterar as configurações da **persistence-unit** para que seja possível conectar-se ao banco de dados Oracle da FIAP com o seu usuário e senha (manter o seu usuário e senha ativo é sua responsabilidade). Não utilize o usuário e senha de outro aluno. Caso tenha problema para autenticar, comunique o professor.
 
