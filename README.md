@@ -26,11 +26,13 @@ SIMULADO - Enterprise Application Development aplicada em 23/08/2023.
 
 # Estudo de caso
 
-No vibrante cenário de São Paulo em 2008, Benefrancis trilhou um percurso único: graduou-se em Sistemas de Informação, concluiu uma pós-graduação em Desenvolvimento de Sistemas para Web e, posteriormente, mergulhou no Direito. Durante seus primeiros anos no Ministério Público Federal, esteve envolvido no mapeamento de processos de trabalho. Essa experiência revelou as ineficiências nos processos judiciais. Com o objetivo de aprimorar as atividades de trabalho, idealizou o desenvolvimento de um Sistema de Gestão de Processos.
+Com o objetivo de aprimorar as atividades de trabalho, ideqlizamos o desenvolvimento de um Sistema de Gestão de Processos Judiciais.
 
-Para demonstrar a eficiência na produtividade, criou um Produto Mínimo Viável (PMV) de um sistema para controle de processos judiciais. Essa atividade representou a fusão de sua expertise em tecnologia com seu conhecimento jurídico recém-adquirido. Com uma equipe diversificada, Benefrancis liderou o desenvolvimento desse sistema, que não só auxiliou o órgão em sua atividade-fim, mas também serviu como treinamento para colegas de trabalho da área de TI, para usarem o JPA e Hibernate como ferramentas de Mapeamento Objeto Relacional.
+Criaremos nesta aula um Produto Mínimo Viável (PMV) de um sistema para controle de processos judiciais. 
 
-Atualmente, atuando como professor na FIAP, estende o convite a você, aluno, para se juntar ao time nessa busca por uma justiça mais ágil e eficaz. Nossa equipe de analistas criou o Diagrama de Classes abaixo, e a sua missão aqui é realizar o Mapeamento Objeto Relacional das classes de Entidade.
+
+
+Nossa equipe de analistas criou o Diagrama de Classes abaixo, e a sua missão aqui é realizar o Mapeamento Objeto Relacional das classes de Entidade. Usaremos a JPA e o Hibernate como ferramentas de Mapeamento Objeto Relacional.
 
 Na sprint atual, você foi incumbido de fazer:
 
