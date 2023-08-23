@@ -47,8 +47,6 @@ Na sprint atual, você foi incumbido de fazer:
 6. Consultar processo pela chave primária findById.
 
 
-Veja o Diagrama de Classes abaixo (as classes já foram criadas):
-
 
 <a id="_O_que_devera_ser_feito"></a>
 
@@ -59,7 +57,7 @@ Veja o Diagrama de Classes abaixo (as classes já foram criadas):
 
 **Fazer o fork do projeto do github.**:
 
-https://github.com/Benefrancis/benezinho-advocacia.git
+https://github.com/Benefrancis/advocacia-benezinho
 
 Caso o github esteja indisponível, você deverá pegar o projeto no diretório compartilhado.
 
@@ -135,7 +133,7 @@ Nos próximos dias, a correção da prova será disponibilizada no github do pro
 Para acessar digite no prompt:
 
 ```shell
-git clone https://github.com/Benefrancis/benezinho-advocacia.git && cd benezinho-advocacia && git checkout correcao
+git clone https://github.com/Benefrancis/advocacia-benezinho && cd benezinho-advocacia && git checkout correcao
 ```
 
 
