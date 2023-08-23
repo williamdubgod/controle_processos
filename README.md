@@ -80,7 +80,7 @@ Alterar o arquivo contido em  **documentacao/equipe.txt** para incluir os RMs e 
     3. Existe a necessidade de ser impedir que o **número** do processo seja nulo e se repita. Crie uma **Unique Constraint para o atributo** com nome inteligível.
 
 
-3. **(2 Ponto)** adicionar corretamente as anotações JPA na classe **Advogado**.
+3. **(1,5 Ponto)** adicionar corretamente as anotações JPA na classe **Advogado**.
     
 
    Lembre-se que:
@@ -89,10 +89,10 @@ Alterar o arquivo contido em  **documentacao/equipe.txt** para incluir os RMs e 
     2. Existe a necessidade de ser impedir que o **numeroOAB** seja nulo e se repita. Crie uma **Unique Constraint para o atributo** com nome inteligível.
 
 
-4. **(1,5 Ponto)** adicionar corretamente as anotações JPA na classe **Estado**.
-
+4. **(1 Ponto)** adicionar corretamente as anotações JPA na classe **Estado**.
 
     Lembre-se que:
+
 
     1. Existe a necessidade de ser impedir que o **nome** e a **sigla** do estado se repita. Crie uma **Unique Constraint para cada um desses atributos** com nome inteligível.
 
@@ -105,10 +105,11 @@ Alterar o arquivo contido em  **documentacao/equipe.txt** para incluir os RMs e 
 
     1. Existe a necessidade de ser impedir que o **nome** do Tipo de Ação seja nulo e se repita. Crie uma **Unique Constraint para cada um desses atributos** com nome inteligível.
 
+6. **(1 Ponto)** Persistir dodas as entidades no SGBD.;
 
-6. **(1 Ponto)** criar um método capaz de consultar um **Processo** pelo seu identificador na correspondente tabela no banco de dados;
+7. **(1 Ponto)** criar um método capaz de consultar um **Processo** pelo seu identificador na correspondente tabela no banco de dados e exibir os dados no prompt;
 
-7. **(1 Ponto)** criar um método capaz de consultar todos os processos na correspondente tabela no banco de dados;
+8. **(1 Ponto)** criar um método capaz de consultar todos os processos na correspondente tabela no banco de dados e exibir no prompt;
 
 
 <a id="_Diagrama_de_Classes"></a>
